@@ -1,0 +1,15 @@
+{
+  "analysisGranularityMinutes": 10,
+  "target": {
+    "host": "acme.saas.appdynamics.com",
+    "port": 443,
+    "ssl": true,
+    "account": "acme",
+    "username": "admin",
+    "password": "admin",
+    "applications": [
+      "App1",
+      "App2"
+    ]
+  }
+}
